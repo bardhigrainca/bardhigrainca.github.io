@@ -10590,7 +10590,7 @@ header .colorlib-navbar-brand .colorlib-logo:focus {
 @media (max-width: 767.98px) {
     .about-section .author-img {
         display: block;
-        height: 300px;
+        height: 600px;
     }
 }
 
