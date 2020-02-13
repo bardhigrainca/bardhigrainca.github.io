@@ -10590,7 +10590,7 @@ header .colorlib-navbar-brand .colorlib-logo:focus {
 @media (max-width: 767.98px) {
     .about-section .author-img {
         display: block;
-        height: 600px;
+        height: 300px;
     }
 }
 
@@ -11072,6 +11072,7 @@ textarea.form-control {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+    height: 600px;
 }
 
 .image-popup {
