@@ -11168,6 +11168,10 @@ textarea.form-control {
     font-weight: 500;
 }
 
+h1.bold-text {
+    z-index: -1;
+}
+
 .blog-entry .text .heading a {
     color: #fff;
 }
