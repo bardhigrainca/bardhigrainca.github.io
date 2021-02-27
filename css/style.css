@@ -6890,6 +6890,10 @@ button.bg-dark:focus {
     display: table-cell !important;
 }
 
+.d-flex{
+
+    justify-content: center;
+}
 .d-flex {
     display: -webkit-box !important;
     display: -ms-flexbox !important;
