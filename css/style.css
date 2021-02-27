@@ -6892,7 +6892,7 @@ button.bg-dark:focus {
 
 .center-all{
 
-    justify-content: center!important;
+    justify-content: right!important;
 }
 .d-flex {
     display: -webkit-box !important;
