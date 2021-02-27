@@ -6890,10 +6890,6 @@ button.bg-dark:focus {
     display: table-cell !important;
 }
 
-.center-all{
-
-    justify-content: right!important;
-}
 .d-flex {
     display: -webkit-box !important;
     display: -ms-flexbox !important;
@@ -11885,4 +11881,8 @@ h1.bold-text {
         stroke-dasharray: 89, 200;
         stroke-dashoffset: -136px;
     }
+}
+.center-all{
+
+    justify-content: right!important;
 }
