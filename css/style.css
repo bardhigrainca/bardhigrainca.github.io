@@ -10079,7 +10079,7 @@ header {
 }
 
 header .colorlib-navbar-brand {
-    float: left;
+    float: center;
 }
 
 header .colorlib-navbar-brand .colorlib-logo {
